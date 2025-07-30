@@ -1,6 +1,5 @@
-from flask import Flask Import 'flask' cloud not be resolved
-
 from flask import Flask
+
 import os
 app=Flask(__name__)
 
